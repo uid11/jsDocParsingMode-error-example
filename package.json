@@ -1,0 +1,10 @@
+{
+  "name": "jsDocParsingMode-error-example",
+  "version": "0.0.1",
+  "devDependencies": {
+    "typescript": "5.3.2"
+  },
+  "scripts": {
+    "tsc": "tsc"
+  }
+}
