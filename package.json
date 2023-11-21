@@ -5,6 +5,6 @@
     "typescript": "5.3.2"
   },
   "scripts": {
-    "tsc": "tsc"
+    "tsc": "tsc --noEmit"
   }
 }
