@@ -3,6 +3,8 @@
 It seems that in the TypeScript 5.3.2 the `exactOptionalPropertyTypes: true` option leads
 to an error in the `jsDocParsingMode` field type in the `node_modules/typescript/lib/typescript.d.ts` file.
 
+TypeScript issue: https://github.com/microsoft/TypeScript/issues/56478.
+
 # How to reproduce the error
 
 Clone the repository locally.
